@@ -1,1 +1,1 @@
-This project the Zephyr Project RTOS.
+This project uses the Zephyr Project RTOS.
